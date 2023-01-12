@@ -1,0 +1,15 @@
+C:\Users\Letícia\Desktop\Be_The_Next módulo 1\Be_the_Next_Modulo1\ExerciciosVariados\ExerciciosVariados\bin\Debug\net6.0\ExerciciosVariados.exe
+C:\Users\Letícia\Desktop\Be_The_Next módulo 1\Be_the_Next_Modulo1\ExerciciosVariados\ExerciciosVariados\bin\Debug\net6.0\ExerciciosVariados.deps.json
+C:\Users\Letícia\Desktop\Be_The_Next módulo 1\Be_the_Next_Modulo1\ExerciciosVariados\ExerciciosVariados\bin\Debug\net6.0\ExerciciosVariados.runtimeconfig.json
+C:\Users\Letícia\Desktop\Be_The_Next módulo 1\Be_the_Next_Modulo1\ExerciciosVariados\ExerciciosVariados\bin\Debug\net6.0\ExerciciosVariados.dll
+C:\Users\Letícia\Desktop\Be_The_Next módulo 1\Be_the_Next_Modulo1\ExerciciosVariados\ExerciciosVariados\bin\Debug\net6.0\ExerciciosVariados.pdb
+C:\Users\Letícia\Desktop\Be_The_Next módulo 1\Be_the_Next_Modulo1\ExerciciosVariados\ExerciciosVariados\obj\Debug\net6.0\ExerciciosVariados.csproj.AssemblyReference.cache
+C:\Users\Letícia\Desktop\Be_The_Next módulo 1\Be_the_Next_Modulo1\ExerciciosVariados\ExerciciosVariados\obj\Debug\net6.0\ExerciciosVariados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Letícia\Desktop\Be_The_Next módulo 1\Be_the_Next_Modulo1\ExerciciosVariados\ExerciciosVariados\obj\Debug\net6.0\ExerciciosVariados.AssemblyInfoInputs.cache
+C:\Users\Letícia\Desktop\Be_The_Next módulo 1\Be_the_Next_Modulo1\ExerciciosVariados\ExerciciosVariados\obj\Debug\net6.0\ExerciciosVariados.AssemblyInfo.cs
+C:\Users\Letícia\Desktop\Be_The_Next módulo 1\Be_the_Next_Modulo1\ExerciciosVariados\ExerciciosVariados\obj\Debug\net6.0\ExerciciosVariados.csproj.CoreCompileInputs.cache
+C:\Users\Letícia\Desktop\Be_The_Next módulo 1\Be_the_Next_Modulo1\ExerciciosVariados\ExerciciosVariados\obj\Debug\net6.0\ExerciciosVariados.dll
+C:\Users\Letícia\Desktop\Be_The_Next módulo 1\Be_the_Next_Modulo1\ExerciciosVariados\ExerciciosVariados\obj\Debug\net6.0\refint\ExerciciosVariados.dll
+C:\Users\Letícia\Desktop\Be_The_Next módulo 1\Be_the_Next_Modulo1\ExerciciosVariados\ExerciciosVariados\obj\Debug\net6.0\ExerciciosVariados.pdb
+C:\Users\Letícia\Desktop\Be_The_Next módulo 1\Be_the_Next_Modulo1\ExerciciosVariados\ExerciciosVariados\obj\Debug\net6.0\ExerciciosVariados.genruntimeconfig.cache
+C:\Users\Letícia\Desktop\Be_The_Next módulo 1\Be_the_Next_Modulo1\ExerciciosVariados\ExerciciosVariados\obj\Debug\net6.0\ref\ExerciciosVariados.dll
