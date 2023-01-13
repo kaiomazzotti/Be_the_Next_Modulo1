@@ -29,3 +29,8 @@ tempo gasto, a distância percorrida e a quantidade de litros utilizada na viage
 Ler uma temperatura em graus Celsius e apresentá-Ia convertida em graus Fahrenheit. A fórmula de conversão de
 temperatura a ser utilizada é F = (9 * C + 160) / 5, em que a variável F representa é a temperatura em graus
 Fahrenheit e a variável C representa é a temperatura em graus Celsius. 
+
+### Exercício 5
+Calcular e apresentar o valor do volume de uma lata de óleo, utilizando a fórmula:
+V = 3.14159 * R * R * A
+Onde as variáveis: V, R e A representam respectivamente o volume, o raio e a altura. 
